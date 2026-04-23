@@ -1,0 +1,12 @@
+transformers>=4.35.0
+accelerate>=0.25.0
+peft>=0.7.0
+fastapi
+uvicorn
+python-dotenv
+pydantic
+spacy
+pytest
+httpx
+pytest-asyncio
+torch>=2.0.0
