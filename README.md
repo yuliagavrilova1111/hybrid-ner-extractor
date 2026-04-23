@@ -95,26 +95,34 @@ Swagger UI: http://localhost:8000/docs
 
 Пример 1. Полный набор сущностей
 Запрос:
+
 ![Example1_request](screenshots/example1_request.png)
 Ответ:
+
 ![Example1_response](screenshots/example1_response.png)
 
 Пример 2. Длинный текст с дополнительными деталями
 Запрос:
+
 ![Example2_request](screenshots/example2_request.png)
 Ответ:
+
 ![Example2_response](screenshots/example2_response.png)
 
 Пример 3. Текст без врача и лекарства (проверка отсутствия сущностей)
 Запрос:
+
 ![Example3_request](screenshots/example3_request.png)
 Ответ:
+
 ![Example3_response](screenshots/example3_response.png)
 
 Пример 4. Пустой текст (проверка валидации)
 Запрос:
+
 ![Example4_request](screenshots/example4_request.png)
 Ответ:
+
 ![Example4_response](screenshots/example4_response.png)
 
 ## Запуск через Docker (опционально)
