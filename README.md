@@ -93,6 +93,8 @@ Swagger UI: http://localhost:8000/docs
 Главная страница
 ![Swagger](screenshots/swagger.png)
 
+
+
 Пример 1. Полный набор сущностей
 Запрос:
 
@@ -100,6 +102,8 @@ Swagger UI: http://localhost:8000/docs
 Ответ:
 
 ![Example1_response](screenshots/example1_response.png)
+
+
 
 Пример 2. Длинный текст с дополнительными деталями
 Запрос:
@@ -109,6 +113,8 @@ Swagger UI: http://localhost:8000/docs
 
 ![Example2_response](screenshots/example2_response.png)
 
+
+
 Пример 3. Текст без врача и лекарства (проверка отсутствия сущностей)
 Запрос:
 
@@ -116,6 +122,8 @@ Swagger UI: http://localhost:8000/docs
 Ответ:
 
 ![Example3_response](screenshots/example3_response.png)
+
+
 
 Пример 4. Пустой текст (проверка валидации)
 Запрос:
